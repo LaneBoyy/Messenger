@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="button_send_choose">Отправить в другое приложение</string>
+    <string name="button_send">Отправить в следующее окно</string>
+    <string name="hint_enter_message">Введиде сообщение</string>
+    <string name="chooser_title">Как отправить?</string>
+</resources>
